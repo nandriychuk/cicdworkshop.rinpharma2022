@@ -11,4 +11,3 @@ test_that("linter_ex is surprised", {
     "^Whoa!\\n"
   )
 })
-
