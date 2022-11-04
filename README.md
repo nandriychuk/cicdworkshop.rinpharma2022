@@ -2,6 +2,8 @@
 
 R in Pharma 2022 CI/CD workshop repository.
 
+Date: 4Nov2022
+
 ## Exercises
 
 ### Exercise 1
